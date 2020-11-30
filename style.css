@@ -30,7 +30,7 @@ img{
     width: 100%;
     background-color: rgba(51, 212, 212, 0.678);
     object-fit: cover;
-    border-radius:50%;
+    border-radius:6px;
 }
 audio{
     width: 100%;
